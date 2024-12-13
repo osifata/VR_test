@@ -1,0 +1,82 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1734051727
+bad.gd::GDScript::-1::1733217378::0::1::::<>Node2D<>::
+bad.tscn::PackedScene::4384219654799162852::1734051722::0::1::::<><>::uid://qpkvorhbl6mn::::res://img/2017Nature___Volcanoes_Lightning_above_the_black_smoke_erupting_volcano_Colima_113560_18.jpg<>res://bad.gd<>uid://cew3wuh35cvvr::::res://models/Despair theme.mp3
+bad_end.gd::GDScript::-1::1733213347::0::1::::<>Node3D<>::
+bad_end.tscn::PackedScene::6773732772722145409::1734051722::0::1::::<><>::res://bad_end.gd<>res://models/clouds.gdshader<>uid://xkrqytufo5tf::::res://models/c7104516f546eab1e9243bdaae312809.jpg<>uid://bladoega1axbg::::res://models/normal map water.jpg<>uid://dxp0ukb5ysa0n::::res://models/vulcao_em_erupcao_-_erupting_volcano.glb<>uid://canvcb75qdtuj::::res://models/3d_field_inspection.glb<>uid://bg401b1lem2b5::::res://models/mount.gltf<>uid://74johdsmm5kl::::res://models/place.gltf<>res://скидыщ.gd<>uid://bojheuyxk3m0m::::res://models/archivo.mp3<>uid://bochweamvaq30::::res://models/rock.gltf<>uid://250fupbc3ii8::::res://models/Mystery theme 2.mp3
+bird.gd::GDScript::-1::1733051611::0::1::::<>Node3D<>::
+bird.tscn::PackedScene::8225662577288084996::1734051722::0::1::::<><>::uid://bbwhb7x5bafjn::::res://models/bird.fbx<>res://bird.gd
+boat.tscn::PackedScene::8118900700528922838::1734051722::0::1::::<><>::uid://cf71phgcxr7nl::::res://models/лодка.gltf
+catscene.gd::GDScript::-1::1733217378::0::1::::<>Node3D<>::
+catscene.tscn::PackedScene::9184867153532593599::1734051722::0::1::::<><>::res://catscene.gd<>uid://dpgtpw01ux6aq::::res://bird.tscn<>uid://dxp0ukb5ysa0n::::res://models/vulcao_em_erupcao_-_erupting_volcano.glb<>uid://canvcb75qdtuj::::res://models/3d_field_inspection.glb<>res://скидыщ.gd<>uid://bg401b1lem2b5::::res://models/mount.gltf<>uid://bojheuyxk3m0m::::res://models/archivo.mp3<>uid://bladoega1axbg::::res://models/normal map water.jpg<>res://models/clouds.gdshader<>uid://xkrqytufo5tf::::res://models/c7104516f546eab1e9243bdaae312809.jpg<>uid://b3hftbj7x0e66::::res://models/lost-in-shadows-1.mp3
+export_presets.cfg::TextFile::-1::1734051326::0::1::::<><>::
+happy.gd::GDScript::-1::1733551666::0::1::::<>Node2D<>::
+happy.tscn::PackedScene::2841617669481535480::1734051722::0::1::::<><>::res://happy.gd<>uid://b3sjuq56kk1da::::res://img/happy.jpg<>uid://8nd1gxtirflb::::res://models/Your Story Interactive - Sails in the Fog - Wedding.mp3
+happy_end.gd::GDScript::-1::1733551537::0::1::::<>Node3D<>::
+happy_end.tscn::PackedScene::1749763455827178155::1734051722::0::1::::<><>::res://models/clouds.gdshader<>res://happy_end.gd<>uid://xkrqytufo5tf::::res://models/c7104516f546eab1e9243bdaae312809.jpg<>uid://bladoega1axbg::::res://models/normal map water.jpg<>uid://dxp0ukb5ysa0n::::res://models/vulcao_em_erupcao_-_erupting_volcano.glb<>uid://canvcb75qdtuj::::res://models/3d_field_inspection.glb<>uid://bg401b1lem2b5::::res://models/mount.gltf<>uid://dnw4dxiv8flrq::::res://boat.tscn<>res://скидыщ.gd<>uid://bojheuyxk3m0m::::res://models/archivo.mp3<>uid://8nd1gxtirflb::::res://models/Your Story Interactive - Sails in the Fog - Wedding.mp3
+icon.svg::CompressedTexture2D::8968760619477324122::1731829919::1731830012::1::::<><>::
+menu.gd::GDScript::-1::1733902410::0::1::::<>Node2D<>::
+menu.tscn::PackedScene::742666300826438865::1734051722::0::1::::<><>::res://menu.gd<>uid://cnawwutkg68mx::::res://img/386930597-65d20997-31a9-4750-84c2-88a0b0546df5.png<>uid://dmlfo6otnkdam::::res://models/Main menu theme.mp3
+object.tscn::PackedScene::8999680511366101423::1734051722::0::1::::<><>::uid://cdpkx6g7lk33c::::res://models/old_colored_wooden_plank._low_poly/scene.gltf
+objects.gd::GDScript::-1::1733125800::0::1::::<>Panel<>::
+openxr_action_map.tres::OpenXRActionMap::8174052013793384960::1734051722::0::1::::<><>::
+panel.gd::GDScript::-1::1733903234::0::1::::<>Panel<>::
+player.gd::GDScript::-1::1733554398::0::1::::<>CharacterBody3D<>::
+player.tscn::PackedScene::5569658069964478087::1734051722::0::1::::<><>::res://player.gd
+sborka.tscn::PackedScene::2702442029416880293::1734051722::0::1::::<><>::
+world.tscn::PackedScene::6651051714826357696::1734051722::0::1::::<><>::uid://cll8ppusxmivn::::res://player.tscn<>uid://74johdsmm5kl::::res://models/place.gltf<>uid://bladoega1axbg::::res://models/normal map water.jpg<>uid://dxp0ukb5ysa0n::::res://models/vulcao_em_erupcao_-_erupting_volcano.glb<>res://models/clouds.gdshader<>uid://xkrqytufo5tf::::res://models/c7104516f546eab1e9243bdaae312809.jpg<>uid://bg401b1lem2b5::::res://models/mount.gltf<>res://panel.gd<>uid://d1hronft2xgl0::::res://object.tscn<>res://objects.gd<>uid://berc3cficwrvh::::res://sborka.tscn<>uid://dnw4dxiv8flrq::::res://boat.tscn<>uid://bsbj6hvxqh5vc::::res://models/Action theme 2.mp3
+скидыщ.gd::GDScript::-1::1733548097::0::1::::<>Node3D<>::
+::res://img/::1733901980
+2017Nature___Volcanoes_Lightning_above_the_black_smoke_erupting_volcano_Colima_113560_18.jpg::CompressedTexture2D::1154632598027512233::1733901952::1733901980::1::::<><>::
+386930597-65d20997-31a9-4750-84c2-88a0b0546df5.png::CompressedTexture2D::5686672476269309067::1733901952::1733901980::1::::<><>::
+happy.jpg::CompressedTexture2D::4389450162084099358::1733901952::1733901980::1::::<><>::
+::res://models/::1733901980
+3d_field_inspection.glb::PackedScene::4800957009966560853::1732512701::1733051226::1::::<><>::uid://ytbhlb0n8hhh::::res://models/3d_field_inspection_0.jpg<>uid://bitt8u4q0tokb::::res://models/3d_field_inspection_1.jpg<>uid://b06bul4o10xpn::::res://models/3d_field_inspection_2.jpg<>uid://bmlukf6rftiop::::res://models/3d_field_inspection_3.jpg<>uid://bxmweg2bf6a2::::res://models/3d_field_inspection_4.jpg
+3d_field_inspection_0.jpg::CompressedTexture2D::1723829222646233033::1732512704::1733051195::1::::<><>::
+3d_field_inspection_1.jpg::CompressedTexture2D::2988368260213389685::1732512704::1733051195::1::::<><>::
+3d_field_inspection_2.jpg::CompressedTexture2D::4205234541118658127::1732512705::1733051195::1::::<><>::
+3d_field_inspection_3.jpg::CompressedTexture2D::3252627471724053459::1732512705::1733051195::1::::<><>::
+3d_field_inspection_4.jpg::CompressedTexture2D::118437643951064751::1732512706::1733051195::1::::<><>::
+4374.jpg::CompressedTexture2D::344208986089811819::1733051165::1733212001::1::::<><>::
+Action theme 2.mp3::AudioStreamMP3::3652486460648744092::1733901953::1733901979::1::::<><>::
+archivo.mp3::AudioStreamMP3::3388077145138879470::1733548097::1733548124::1::::<><>::
+bird.fbx::PackedScene::2502454360305829987::1700558114::1733115173::1::::<><>::
+c7104516f546eab1e9243bdaae312809.jpg::CompressedTexture2D::1636049233622513923::1733051165::1733051195::1::::<><>::
+clouds.gdshader::Shader::-1::1733051165::0::1::::<><>::
+concrete_wall_003_diff_1k.jpg::CompressedTexture2D::7005748059403808538::1733051165::1733212001::1::::<><>::
+db8683a92148ef471526390193cf1ae5.jpg::CompressedTexture2D::1597160411479780106::1733051165::1733051195::1::::<><>::
+Despair theme.mp3::AudioStreamMP3::5100753478384034783::1733901953::1733901979::1::::<><>::
+gray_rocks_diff_1k.jpg::CompressedTexture2D::3610602000734508733::1731977450::1733212001::1::::<><>::
+gray_rocks_nor_gl_1k.png::CompressedTexture2D::1605623536100145701::1731977450::1733212001::1::::<><>::
+gray_rocks_rough_1k.png::CompressedTexture2D::6610687635514092251::1733051165::1733212001::1::::<><>::
+High-Def-Stone-Wall-Moss-Growth-Texture.jpg::CompressedTexture2D::4100517418037099154::1731977450::1733051195::1::::<><>::
+lost-in-shadows-1.mp3::AudioStreamMP3::4366496532796699077::1733901953::1733901979::1::::<><>::
+Main menu theme.mp3::AudioStreamMP3::8024566566841008408::1733901953::1733901979::1::::<><>::
+Monstera_Albedo.png::CompressedTexture2D::2914830262125488842::1733051165::1733212001::1::::<><>::
+Monstera_Normal.png::CompressedTexture2D::8231768534740901987::1733051165::1733212001::1::::<><>::
+Monstera_rgh.png::CompressedTexture2D::1964163583786603358::1733051165::1733212001::1::::<><>::
+mount.gltf::PackedScene::2868985149043620652::1733051165::1733051218::1::::<><>::uid://w0w87od50dss::::res://models/db8683a92148ef471526390193cf1ae5.jpg
+Mystery theme 2.mp3::AudioStreamMP3::1958558038325641009::1733901953::1733901979::1::::<><>::
+normal map water.jpg::CompressedTexture2D::3158705335201423652::1733051165::1733212001::1::::<><>::
+place.gltf::PackedScene::2306481778466581111::1733211981::1733212002::1::::<><>::uid://brpac8cuuobpl::::res://models/gray_rocks_diff_1k.jpg<>uid://c1gjca2rhm4qx::::res://models/gray_rocks_rough_1k.png<>uid://w41ndeg51nll::::res://models/gray_rocks_nor_gl_1k.png<>uid://c62vv86enhh6y::::res://models/concrete_wall_003_diff_1k.jpg<>uid://e50co5spaanb::::res://models/4374.jpg<>uid://bhr73f2sdysic::::res://models/Monstera_Albedo.png<>uid://28pqtjff1g3o::::res://models/Monstera_rgh.png<>uid://dpjsa4afw1wut::::res://models/Monstera_Normal.png
+rock.gltf::PackedScene::3373657767215655137::1733901953::1733901980::1::::<><>::uid://b8dn0p8c2n1py::::res://models/vZcuMNgbK6c.jpg
+rock_08_diff_1k.jpg::CompressedTexture2D::8638460532234781315::1731977450::1733051195::1::::<><>::
+rock_08_rough_1k.png::CompressedTexture2D::9127245785231507528::1731977450::1733051195::1::::<><>::
+rock_surface_diff_1k.jpg::CompressedTexture2D::5333412409392034174::1731977450::1733051195::1::::<><>::
+rock_surface_nor_gl_1k.png::CompressedTexture2D::2657614527393143098::1731977450::1733051195::1::::<><>::
+rock_surface_rough_1k.png::CompressedTexture2D::5712312055650869370::1731977450::1733051195::1::::<><>::
+Smoke30Frames.png::CompressedTexture2D::651640694137684519::1733548097::1733548124::1::::<><>::
+SmokeGradient.tres::Gradient::-1::1733548097::0::1::::<><>::
+vulcao_em_erupcao_-_erupting_volcano.glb::PackedScene::8806125289936353135::1732512595::1733051218::1::::<><>::uid://b84ciewlnb5ne::::res://models/vulcao_em_erupcao_-_erupting_volcano_0.png
+vulcao_em_erupcao_-_erupting_volcano_0.png::CompressedTexture2D::4762655443549009518::1732512598::1733051195::1::::<><>::
+vZcuMNgbK6c.jpg::CompressedTexture2D::4709680461720226838::1733901953::1733901979::1::::<><>::
+Your Story Interactive - Sails in the Fog - Wedding.mp3::AudioStreamMP3::2343297684022912947::1733901953::1733901979::1::::<><>::
+лодка.gltf::PackedScene::5191451479481368061::1733548097::1733901980::1::::<><>::uid://dt5u0mscp6i3c::::res://models/31-05-2013_wood02-scaled.jpg
+::res://models/old_colored_wooden_plank._low_poly/::1733211863
+license.txt::TextFile::-1::1646844790::0::1::::<><>::
+scene.gltf::PackedScene::5015023446760413738::1646844820::1733211863::1::::<><>::uid://1j0wicajjpl0::::res://models/old_colored_wooden_plank._low_poly/textures/DefaultMaterial_baseColor.jpeg<>uid://t6goog5qk4nx::::res://models/old_colored_wooden_plank._low_poly/textures/DefaultMaterial_metallicRoughness.png<>uid://carf0hglyk76p::::res://models/old_colored_wooden_plank._low_poly/textures/DefaultMaterial_normal.png
+::res://models/old_colored_wooden_plank._low_poly/textures/::1733211863
+DefaultMaterial_baseColor.jpeg::CompressedTexture2D::1845046969949257763::1646844794::1733211862::1::::<><>::
+DefaultMaterial_metallicRoughness.png::CompressedTexture2D::1397973788550335317::1646844800::1733211863::1::::<><>::
+DefaultMaterial_normal.png::CompressedTexture2D::4808284396481243357::1646844818::1733211862::1::::<><>::
+::res://models/textures/::1733216301
